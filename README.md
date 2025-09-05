@@ -45,8 +45,8 @@ npm install svelte-easy-crop --save
   import Cropper from 'svelte-easy-crop'
 
   let image = '/images/dog.jpeg'
-  let crop = { x: 0, y: 0 }
-  let zoom = 1
+  let crop = $state({ x: 0, y: 0 });
+  let zoom = $state(1);
 </script>
 
 <Cropper
