@@ -14,7 +14,7 @@ This is a rewrite of `react-easy-crop` (https://github.com/valentinh/react-easy-
 
 ## Demo
 
-- [Basic example](https://codesandbox.io/s/svelte-easy-crop-basic-demo-q1005?file=/App.svelte)
+- [Basic example](https://svelte.dev/playground/5d77c734e1af424bac9e09a844c96649?version=latest)
 
 ## Features
 
